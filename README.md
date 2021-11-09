@@ -1,2 +1,3 @@
-# psychic-octo-robot
-This is a book recommendation system written in prolog. Prolog is a logical programming language used to design in AI
+## Book Recommendation System
+If you liked my project do give it a star.
+If you have any query do open a issue in this repo
